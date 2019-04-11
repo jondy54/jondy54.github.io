@@ -1,0 +1,31 @@
+.col-sm-6{
+    font-size: 24pt;
+    font-weight: bold;
+    font-family: Arial, Serif;
+}
+.footer-copyright{
+    margin-top: 5cm;
+}
+.container{
+    margin-top: 4cm;
+}
+body{
+    background-color: aliceblue;
+}
+
+#aboutMe_text,#hobbies_text{
+    font-size: 20pt;
+    font-family: Arial, Serif;
+    font-weight: normal;
+
+}
+
+#family_text,#education_text,#tetris_text,#hearthstone_text,#hearthstone_text2,#hearthstone_text3{
+    font-size: 16pt;
+    font-family: Arial, Serif;
+    font-weight: normal;
+}
+.card-deck{
+    margin-top: 2cm;
+}
+
